@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+}
+
+.topnav{
+    padding: 20px;
+    background-color: #FF7F50;
+}
+
+.topnav a{
+    color: darkblue;
+    padding: 15px 17px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.topnav:hover{
+    background-color: skyblue;
+}
+
+.topnav a:hover{
+    color: gray;
+}
+
+.head{
+    color: deeppink;
+}
+
+.head:hover{
+    color: purple;
+}
+
+.para{
+    color: black;
+}
+
+#about{
+    padding: 20px;
+}
+
+.detail{
+    font-size: 20px;
+    padding: 50px;
+    background-color: lightgrey;
+}
+
+#button{
+    font-size: 20px;
+    color: white;
+    background-color: #007FFF;
+}
